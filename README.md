@@ -34,4 +34,4 @@ To run tests, use the following command: `npm test`
 
 ## Questions
 
-If you have any questions about the repo, open an issue, or contact me directly at example@example.com. You can find more of my work at [WesBaker0](https://github.com/WesBaker0/).
+If you have any questions about the repo, open an issue, or contact me directly at westonbaker0@gmail.com. You can find more of my work at [WesBaker0](https://github.com/WesBaker0/).
